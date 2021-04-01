@@ -10,7 +10,12 @@ The specification can be found at [Fix keyboard input on terminals].
 
 ## Installation
 
-Copy [`keys.yml`] to your config file.
+Import [`keys.yml`] in your config file:
+
+``` yaml
+import:
+  - /path/to/keys.yml
+```
 
 [`keys.yml`]: keys.yml
 
