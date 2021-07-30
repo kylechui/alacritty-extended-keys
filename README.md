@@ -2,7 +2,7 @@
 
 [Alacritty]: https://github.com/alacritty/alacritty
 
-Enable CSI u mode.
+Enable CSI u mode and Alt keys for macOS.
 
 The specification can be found at [Fix keyboard input on terminals].
 
