@@ -9,6 +9,8 @@
 # https://github.com/alacritty/alacritty/blob/master/alacritty.yml
 key_bindings:
 
+  # Support for CSI u mode:
+
   - { key: H, mods: Control, chars: "\x1b[104;5u" }
   - { key: I, mods: Control, chars: "\x1b[105;5u" }
   - { key: J, mods: Control, chars: "\x1b[106;5u" }
