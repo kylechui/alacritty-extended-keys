@@ -19,7 +19,7 @@ import:
 
 [`keys.yml`]: keys.yml
 
-## Configuration
+## Support
 
 ### Add more keys
 
