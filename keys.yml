@@ -7,6 +7,9 @@
 # Control + 0 ⇒ ResetFontSize
 #
 # https://github.com/alacritty/alacritty/blob/master/alacritty.yml
+#
+# Keys:
+# https://docs.rs/glutin/latest/glutin/event/enum.VirtualKeyCode.html
 key_bindings:
 
   # Support for CSI u mode:

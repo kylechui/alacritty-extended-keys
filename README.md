@@ -38,11 +38,13 @@ key_bindings:
   - { key: <key>, mods: <modifiers>, chars: "\x1b[<code-point>;<modifier>u" }
 ```
 
-Get Alacritty key names for the `key` section:
+Get Alacritty [key names] for the `key` section:
 
 ``` sh
 alacritty --print-events
 ```
+
+[Key names]: https://docs.rs/glutin/latest/glutin/event/enum.VirtualKeyCode.html
 
 Get the code points for the `chars` section:
 
