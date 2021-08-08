@@ -23,15 +23,13 @@ import:
 
 ### Add more keys
 
-Read the [specification].
-
-The syntax is:
+The [CSI u syntax][Specification] is:
 
 ```
 CSI <code-point> ; <modifier> u
 ```
 
-In Alacritty-speak, it is:
+In Alacritty-speak, it translates to:
 
 ``` yaml
 key_bindings:
