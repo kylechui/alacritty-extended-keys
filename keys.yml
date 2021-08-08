@@ -24,12 +24,6 @@ key_bindings:
   # Control + <key> ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 
   - { key: Return, mods: Control, chars: "\x1b[13;5u" }
-  - { key: Slash, mods: Control, chars: "\x1b[47;5u" }
-
-  # Control + Shift + <sign> ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-
-  - { key: 51, mods: Control|Shift, chars: "\x1b[60;6u" } # Less
-  - { key: 52, mods: Control|Shift, chars: "\x1b[62;6u" } # Greater
 
   # Control + Shift + <letter> ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 
