@@ -31,6 +31,7 @@ key_bindings:
   # Control + B ⇒ SearchBackward
   # Control + C ⇒ Copy
   # Control + F ⇒ SearchForward
+  # Control + N ⇒ SpawnNewInstance
   # Control + V ⇒ Paste
 
   - { key: A, mods: Control|Shift, chars: "\x1b[65;6u" }
@@ -43,7 +44,6 @@ key_bindings:
   - { key: K, mods: Control|Shift, chars: "\x1b[75;6u" }
   - { key: L, mods: Control|Shift, chars: "\x1b[76;6u" }
   - { key: M, mods: Control|Shift, chars: "\x1b[77;6u" }
-  - { key: N, mods: Control|Shift, chars: "\x1b[78;6u" }
   - { key: O, mods: Control|Shift, chars: "\x1b[79;6u" }
   - { key: P, mods: Control|Shift, chars: "\x1b[80;6u" }
   - { key: Q, mods: Control|Shift, chars: "\x1b[81;6u" }
