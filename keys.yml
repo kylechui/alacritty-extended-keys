@@ -31,7 +31,7 @@ key_bindings:
   # Control + B ⇒ SearchBackward
   # Control + C ⇒ Copy
   # Control + F ⇒ SearchForward
-  # Control + N ⇒ SpawnNewInstance
+  # Control + N ⇒ CreateNewWindow
   # Control + V ⇒ Paste
 
   - { key: A, mods: Control|Shift, chars: "\x1b[65;6u" }
